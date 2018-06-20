@@ -1,6 +1,8 @@
 # SalesforceDMPiOS
 Salesforce DMP iOS SDK Carthage Binary dependecy definition
 
+Read mode at https://konsole.zendesk.com/hc/en-us/articles/218035068-iOS-SDK-Downloads
+
 # Usage
 
 Declare the following in your `Cartfile`
